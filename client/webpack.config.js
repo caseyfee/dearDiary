@@ -16,7 +16,7 @@ module.exports = () => {
       path: path.resolve(__dirname, 'dist'),
     },
     plugins: [
-// Added and configure workbox plugins for a service worker and manifest file.
+    // Added and configure workbox plugins for a service worker and manifest file.
 
       // Webpack plugin that generates our html file and injects our bundles. 
       new HtmlWebpackPlugin({
@@ -72,6 +72,6 @@ module.exports = () => {
         },
       ],
     },
-  },
+  };
   
 };
