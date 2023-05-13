@@ -3,7 +3,7 @@ This is a text editor that runs in the browser that is a single-page application
 
 ## Description
 
-This project is the creation of note's app that is designed to follow progressive web app, PWA requirements. This application was built using a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline and deployed onto Heroku.
+This project is the creation of note's app that is designed to follow progressive web app, PWA requirements. This application was built using a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline and deployed onto Heroku here: https://dear-diary-notes-app.herokuapp.com/
 
 
 This project includes photos of the finished product at the bottom. 
@@ -42,15 +42,15 @@ THEN I should have proper build scripts for a webpack application
 - [Criteria](#criteria)
 - [Credits](#credits) 
 - [Questions](#questions)
-- [Photos] (#Photos)
+- [Photo] (#photo)
 
 ## Credits: 
-Thanks to my tutor - Dominique Meeks Gombe, classmates, BCS TAs, and the youtubers out there! Also learned a lot from the mini-project this past week
+Thanks to my tutor - Dominique Meeks Gombe, classmates, and BCS TAs! Also learned a lot from the mini-project this past week.
 
-## Questions
+## Questions:
 Contact me at: caseyfee3@gmail.com
 
 
-## Photos
-[COMING SOON]
+## Photo:
+![homepagePhoto](./client/src/images/JATE%20screenshot.png)
 
